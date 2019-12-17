@@ -1,5 +1,5 @@
 # CPSwarm Workbench
-The CPSwarm Workbench is a collection of tools developed as part of the CPSwarm project. The workbench is described [here](https://www.cpswarm.eu/index.php/cpswarm-workbench)
+The CPSwarm Workbench is a collection of tools developed as part of the CPSwarm project. The workbench is described [here](https://www.cpswarm.eu/index.php/cpswarm-workbench).
 
 
 ### Components
