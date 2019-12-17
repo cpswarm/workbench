@@ -19,9 +19,9 @@ The CPSwarm Workbench is a collection of tools developed as part of the CPSwarm 
 </tr>
 <tr>
 <td>Optimisation Tool</td>
-<td><a href="http://frevo.sourceforge.net/">website</a></td>
-<td><a href="https://sourceforge.net/projects/frevo/files/">releases</a></td>
-<td><a href="https://github.com/FrevoProject/FREVO">FREVO</a></td>
+<td><a href="https://github.com/cpswarm/frevo-next">readme</a></td>
+<td>-</td>
+<td><a href="https://github.com/cpswarm/frevo-next">frevo-next</a></td>
 </tr>
 <tr>
 <td>Gazebo Simulation Manager</td>
