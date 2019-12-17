@@ -1,5 +1,5 @@
 # CPSwarm Workbench
-The CPSwarm Workbench is a collection of tools developed as part of the CPSwarm project.
+The CPSwarm Workbench is a collection of tools developed as part of the CPSwarm project. The workbench is described [here](https://www.cpswarm.eu/index.php/cpswarm-workbench)
 
 
 ### Components
@@ -81,7 +81,7 @@ The CPSwarm Workbench is a collection of tools developed as part of the CPSwarm 
 </tr>
 <tr>
 <td>Communication Library</td>
-<td><a href="https://github.com/cpswarm/swarmio">readme</a>,<a href="https://github.com/cpswarm/swarmio/wiki">wiki</a></td>
+<td><a href="https://github.com/cpswarm/swarmio">readme</a>, <a href="https://github.com/cpswarm/swarmio/wiki">wiki</a></td>
 <td><a href="https://pipelines.linksmart.eu/browse/CPSW-ALS/latest/artifact">snapshots</a></td>
 <td><a href="https://github.com/cpswarm/swarmio">swarmio</a></td>
 </tr>
