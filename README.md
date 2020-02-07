@@ -69,13 +69,13 @@ The CPSwarm Workbench is a collection of tools developed as part of the CPSwarm 
 </tr>
 <tr>
 <td>Abstraction Library</td>
-<td>Hardware Functions: <a href="https://github.com/cpswarm/hardware_functions">readme</a> (TBC)<br />Sending &amp; Actuation: <a href="https://github.com/cpswarm/sensing_actuation">readme</a> (TBC)</td>
+<td>Hardware Functions: <a href="https://github.com/cpswarm/hardware_functions">readme</a> (TBC)<br />Sensing &amp; Actuation: <a href="https://github.com/cpswarm/sensing_actuation">readme</a> (TBC)</td>
 <td>-</td>
 <td><a href="https://github.com/cpswarm/hardware_functions">hardware_functions</a>, <a href="https://github.com/cpswarm/sensing_actuation">sensing_actuation</a></td>
 </tr>
 <tr>
 <td>Swarm Library</td>
-<td>Complex Behaviors: <a href="https://github.com/cpswarm/complex_behaviors">readme</a>, <a href="https://wiki.ros.org/complex_behaviors">wiki</a><br />Swarm Behaviors: <a href="https://github.com/cpswarm/swarm_behaviors">readme</a>, <a href="https://wiki.ros.org/swarm_behaviors">wiki</a><br />Swarm Functions: <a href="https://github.com/cpswarm/swarm_functions">readme</a>, <a href="https://wiki.ros.org/swarm_functions">wiki</a><br />CPSwarm Messages: <a href="https://github.com/cpswarm/cpswarm_msgs">readme</a>, <a href="https://wiki.ros.org/cpswarm_msgs">wiki</a></td>
+<td>Complex Behaviors: <a href="https://github.com/cpswarm/complex_behaviors">readme</a><br />Swarm Behaviors: <a href="https://github.com/cpswarm/swarm_behaviors">readme</a>, <a href="https://wiki.ros.org/swarm_behaviors">wiki</a><br />Swarm Functions: <a href="https://github.com/cpswarm/swarm_functions">readme</a>, <a href="https://wiki.ros.org/swarm_functions">wiki</a><br />CPSwarm Messages: <a href="https://github.com/cpswarm/cpswarm_msgs">readme</a>, <a href="https://wiki.ros.org/cpswarm_msgs">wiki</a></td>
 <td>TBA</td>
 <td><a href="https://github.com/cpswarm/complex_behaviors">Complex Behaviors</a>, <br /><a href="https://github.com/cpswarm/swarm_behaviors">Swarm Behaviors</a>, <br /><a href="https://github.com/cpswarm/swarm_functions">Swarm Functions</a>, <br /><a href="https://github.com/cpswarm/cpswarm_msgs">CPSwarm Messages</a></td>
 </tr>
