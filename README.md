@@ -76,7 +76,7 @@ The CPSwarm Workbench is a collection of tools developed as part of the CPSwarm 
 <tr>
 <td>Swarm Library</td>
 <td>Complex Behaviors: <a href="https://github.com/cpswarm/complex_behaviors">readme</a><br />Swarm Behaviors: <a href="https://github.com/cpswarm/swarm_behaviors">readme</a>, <a href="https://wiki.ros.org/swarm_behaviors">wiki</a><br />Swarm Functions: <a href="https://github.com/cpswarm/swarm_functions">readme</a>, <a href="https://wiki.ros.org/swarm_functions">wiki</a><br />CPSwarm Messages: <a href="https://github.com/cpswarm/cpswarm_msgs">readme</a>, <a href="https://wiki.ros.org/cpswarm_msgs">wiki</a></td>
-<td>-</td>
+  <td><a href="https://index.ros.org/p/swarm_behaviors/">Swarm Behaviors</a><br /><a href="https://index.ros.org/p/swarm_functions/">Swarm Functions</a><br /><a href="https://index.ros.org/p/cpswarm_msgs/">CPSwarm Messages</a></td>
 <td><a href="https://github.com/cpswarm/complex_behaviors">Complex Behaviors</a>, <br /><a href="https://github.com/cpswarm/swarm_behaviors">Swarm Behaviors</a>, <br /><a href="https://github.com/cpswarm/swarm_functions">Swarm Functions</a>, <br /><a href="https://github.com/cpswarm/cpswarm_msgs">CPSwarm Messages</a></td>
 </tr>
 <tr>
